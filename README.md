@@ -1,5 +1,8 @@
 # 🔔[个人博客](https://ybnet.ga)
 
+
+![Cuttlefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=deezertidal&show_icons=true&count_private=true&theme=vue)  
+
 ## 相关链接
 
 - [Shadowrocket相关](https://ybnet.ga/shadowrocket.html) 
