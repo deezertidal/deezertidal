@@ -1,7 +1,6 @@
-# 🔔[个人博客](https://ybnet.ga)
+# 🔔[个人博客](https://ybnet.ga)     [![Stars](https://img.shields.io/github/stars/deezertidal/shadowrocket-rules)](https://github.com/deezertidal/shadowrocket-rules/stargazers)[![Fork](https://img.shields.io/github/forks/deezertidal/shadowrocket-rules)](https://github.com/deezertidal/deezertidal/network/members)[![](https://img.shields.io/github/followers/deezertidal?label=follow&style=social)](https://github.com/deezertidal)
 
-
-![Cuttlefish's GitHub stats](https://github-readme-stats.vercel.app/api?username=deezertidal&show_icons=true&count_private=true&theme=vue)  
+![Deezertidal's GitHub stats](https://github-readme-stats.vercel.app/api?username=deezertidal&show_icons=true&count_private=true&theme=vue)  
 
 ## 相关链接
 
