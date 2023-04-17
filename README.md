@@ -1,7 +1,8 @@
-# 🔔[个人博客](https://ybnet.ga)     [![Stars](https://img.shields.io/github/stars/deezertidal/shadowrocket-rules)](https://github.com/deezertidal/shadowrocket-rules/stargazers)[![Fork](https://img.shields.io/github/forks/deezertidal/shadowrocket-rules)](https://github.com/deezertidal/deezertidal/network/members)[![](https://img.shields.io/github/followers/deezertidal?label=follow&style=social)](https://github.com/deezertidal)
+# 🔔[个人博客](https://ybnet.ga)     [![Stars](https://img.shields.io/github/stars/deezertidal/shadowrocket-rules)](https://github.com/deezertidal/shadowrocket-rules/stargazers)[![Fork](https://img.shields.io/github/forks/deezertidal/shadowrocket-rules)](https://github.com/deezertidal/deezertidal/network/members)[![](https://img.shields.io/github/followers/deezertidal?label=follow&style=social)](https://github.com/deezertidal)  
 
-![Deezertidal's GitHub stats](https://github-readme-stats.vercel.app/api?username=deezertidal&show_icons=true&count_private=true&theme=vue)  
+![deezertidal's GitHub stats](https://github-readme-stats.vercel.app/api?username=deezertidal&count_private=true&theme=great-gatsby&hide=prs,issues,contribs)
 
+  
 ## 相关链接
 
 - [Shadowrocket相关](https://ybnet.ga/shadowrocket.html) 
