@@ -10,4 +10,6 @@
 - [QuantumultX相关](https://ybnet.ga/quantumultx.html) 
 - [Surge相关](https://ybnet.ga/surge.html) 
 - [机场推荐](https://ybnet.ga/airport.html) 
+- [代理规则](https://ybnet.ga/rule.html)
+- [safari脚本](https://ybnet.ga/script.html)
 - [巨魔应用](https://ybnet.ga/troll.html)
