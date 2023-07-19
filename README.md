@@ -7,9 +7,3 @@
 <br>  
 #### 🔔Surge&Stash面板
 ![Image text](https://raw.githubusercontent.com/deezertidal/deezertidal.github.io/master/IMG/panel.png)  
-
-****
-### 🔔[Loon插件仓库](https://loons.vercel.app)   
-原作者Peng-YM
-<br>  
-![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/loons.png)    
