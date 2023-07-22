@@ -6,4 +6,4 @@
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/shot1.png)  
 <br>  
 #### 🔔Surge&Stash面板
-![Image text](https://raw.githubusercontent.com/deezertidal/deezertidal.github.io/master/IMG/panel.png)  
+![Image text](https://raw.githubusercontent.com/deezertidal/Surge_Module/master/files/panel.png)  
