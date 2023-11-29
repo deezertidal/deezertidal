@@ -1,4 +1,4 @@
-## 🔔[个人网站](https://yfamily.vercel.app)      || ·[直连站](https://whatshub.top)   
+## 🔔[个人网站](https://yfamily.vercel.app)      || [直连站](https://whatshub.top)   
 
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/award.jpg?raw=ture)   
 
