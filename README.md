@@ -1,4 +1,4 @@
-## [站点1](https://whatshub.top) &nbsp;&nbsp;[站点2](https://yfamily.vercel.app)       
+## [个人网站](https://yfamily.vercel.app)   
 
 ![Image text](https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/award.jpg?raw=ture)   
 
