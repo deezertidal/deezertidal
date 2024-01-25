@@ -3,7 +3,6 @@
 #### 其他项目：[Hit-Box](https://hitbox.whatshub.top) · [今日热榜](https://hot.whatshub.top) · [在线工具](https://tool.whatshub.top) · [网址导航](https://nav.whatshub.top) · [限免App](https://app.whatshub.top)   
 
 <img src="https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/award.jpg?raw=ture" alt="example" width="200px">  
-<br><br><br>
 <img src="https://github.com/deezertidal/shadowrocket-rules/blob/main/IMG/shot1.png" alt="example" width="300px">
 <br>  
 
