@@ -10,12 +10,3 @@
 <hr/>
 <h4><a href="https://app.hitboxes.top"  target="_blank">GetApp - AppStore限时免费应用</a></h4>
 <img alt="Image text" src="https://whatshub.top/IMG/app.png" style="max-width:300px"/>  
-<hr/>
-<h4><a href="https://tool.hitboxes.top"  target="_blank">在线工具箱 - 加解密，转换类等工具</a> </h4>
-<img alt="Image text" src="https://whatshub.top/IMG/tool.png" style="max-width:300px"/>  
-<hr/>
-<h4><a href="https://hot.hitboxes.top"  target="_blank">今日热榜</a></h4>
-<img alt="Image text" src="https://whatshub.top/IMG/hot.png" style="max-width:300px"/>  
-<hr/>
-<h4><a href="https://nav.hitboxes.top"  target="_blank">网址导航</a></h4>
-<img alt="Image text" src="https://whatshub.top/IMG/nav.png" style="max-width:300px"/>  
