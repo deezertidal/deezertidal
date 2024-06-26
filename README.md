@@ -5,8 +5,8 @@
 
 ### 其他项目： 
 
-<h4><a href="https://music.hitboxes.top"  target="_blank">MusicBox - 国内外各平台歌曲/专辑/歌手榜单</a></h4>
+<h4><a href="https://music.whatshub.top"  target="_blank">MusicBox - 国内外各平台歌曲/专辑/歌手榜单</a></h4>
 <img alt="Image text" src="https://whatshub.top/IMG/musicbox.png" style="max-width:300px" />  
 <hr/>
-<h4><a href="https://app.hitboxes.top"  target="_blank">GetApp - AppStore限时免费应用</a></h4>
+<h4><a href="https://app.whatshub.top"  target="_blank">GetApp - AppStore限时免费应用</a></h4>
 <img alt="Image text" src="https://whatshub.top/IMG/freeapp.png" style="max-width:300px"/>  
