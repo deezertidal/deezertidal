@@ -4,5 +4,5 @@
 
 <br><br><br>
 
-#### [What's Next](https://algo-staking.de)
-<img src="https://algo-staking.de/logo/next.png" alt="example" width="300px">
+#### [What's Next](https://nekst.top)
+<img src="https://nekst.top/logo/next.png" alt="example" width="300px">
