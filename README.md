@@ -5,4 +5,4 @@
 <br><br><br>
 
 #### [What's Next](https://nekst.top)
-<img src="https://nekst.top/logo/next.png" alt="example" width="300px">
+<img src="https://nekst.top/logo/nekst.png" alt="example" width="300px">
