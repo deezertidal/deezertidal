@@ -4,5 +4,5 @@
 
 <br><br><br>
 
-#### [What's Next](https://nekst.top)
-<img src="https://nekst.top/logo/nekst.png" alt="example" width="300px">
+#### [What's Next](https://next.yfamilys.com)
+<img src="https://next.yfamilys.com/logo/nekst.png" alt="example" width="300px">
