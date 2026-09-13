@@ -5,4 +5,4 @@
 <br><br><br>
 
 #### [What's Next](https://nxt.dpdns.org)
-<img src="https://nekst.top/logo/nekst.png" alt="example" width="300px">
+<img src="https://nxt.dpdns.org/logo/nekst.png" alt="example" width="300px">
